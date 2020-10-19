@@ -1,0 +1,31 @@
+h1 {
+	position: absolute;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 9.2vw;
+	top: -50px;
+	left: 100px;
+	font-weight: 400px;
+	color: rgb( 240, 190, 140);
+}
+
+p {
+	position: absolute;
+	top: 600px;
+	left: 100px;
+	font-family: 'Slabo 27px', serif;
+	font-size: 1.9vw;
+	line-height: 38px;
+	color: orange;
+}
+
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(nonsensepic.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
