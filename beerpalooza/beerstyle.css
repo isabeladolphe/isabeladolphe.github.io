@@ -1,0 +1,138 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+	background-image: url(woodbackground1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: black;
+}
+
+.one {
+	position: absolute;
+	width: 300px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 1000px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.two {
+	position: absolute;
+	width: 300px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 700px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.three {
+	position: absolute;
+	width: 300px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 400px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.four {
+	position: absolute;
+	width: 1000px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.5vw;
+	top: 30px;
+	left: 500px;
+	font-weight: 700;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.stouthome {
+	position: relative;
+	width: 50%;
+}
+
+.stout1 {
+	display: block;
+	width: 30%;
+  height: 450px;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.stouthome:hover .overlay {
+  width: 100%;
+}
+
+.stouttext {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
+.lager1 {
+	height: 485px;
+	position: absolute;
+	top: 175px;
+	left: 300px;
+}
+
+.ale1 {
+	height: 460px;
+	position: absolute;
+	top: 185px;
+	left: 600px;
+}
+
+.ipa1 {
+	height: 455px;
+	position: absolute;
+	top: 200px;
+	left: 850px;
+}
+
+.specialty1 {
+	height: 470px;
+	position: absolute;
+	top: 195px;
+	left: 1100px;
+}
+
