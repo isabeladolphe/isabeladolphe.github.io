@@ -67,44 +67,71 @@
 	letter-spacing: 3px;
 }
 
-.stouthome {
-	position: relative;
-	width: 50%;
+.stouttext {
+	position: absolute;
+	width: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: 200px;
+	left: 60px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 0px;
+}
+
+.lagertext {
+	position: absolute;
+	width: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: 200px;
+	left: 350px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 0px;
+}
+
+.aletext {
+	position: absolute;
+	width: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: 200px;
+	left: 640px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 0px;
+}
+
+.ipatext {
+	position: absolute;
+	width: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: 200px;
+	left: 900px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 0px;
+}
+
+.specialtytext {
+	position: absolute;
+	width: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: 200px;
+	left: 1150px;
+	font-weight: 200;
+	color: white;
+	letter-spacing: 0px;
 }
 
 .stout1 {
-	display: block;
-	width: 30%;
-  height: 450px;
-}
-
-.overlay {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: black;
-  overflow: hidden;
-  width: 0;
-  height: 100%;
-  transition: .5s ease;
-}
-
-.stouthome:hover .overlay {
-  width: 100%;
-}
-
-.stouttext {
-  white-space: nowrap; 
-  color: white;
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+	height: 450px;
+	position: absolute;
+	top: 200px;
+	left: 20px;
 }
 
 

@@ -1,0 +1,156 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(100, 243, 248);
+	opacity: 75%;
+}
+
+.one {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 520px;
+	font-weight: 600;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.sexualchocolate {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 150px;
+}
+
+.elgordo {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 280px;
+}
+
+.blackcauldron {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 390px;
+}
+
+.toughlove {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 520px;
+}
+
+.perennial {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 650px;
+}
+
+.gingerbread {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 780px;
+}
+
+.silhouette {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 920px;
+}
+
+.voodoodaddy {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 1050px;
+}
+
+.rustynail {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 1190px;
+}
+
+.kingmisanthrope {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 150px;
+}
+
+.bourboncountry {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 250px;
+}
+
+.peanutbutterchocolate {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 350px;
+}
+
+.bigbadbaptist {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 500px;
+}
+
+.mastlanding {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 590px;
+}
+
+.kanebrewing {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 730px;
+}
+
+.zonker {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 840px;
+}
+
+.surlydarkness {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 1000px;
+}
+
+.killthesun {
+	height: 250px;
+	position: absolute;
+	top: 430px;
+	left: 1100px;
+}
+

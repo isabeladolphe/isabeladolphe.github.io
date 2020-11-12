@@ -1,0 +1,57 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(100, 243, 248);
+	opacity: 75%;
+}
+
+.one {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 550px;
+	font-weight: 600;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.cubanostyle {
+	height: 200px;
+	position: absolute;
+	top: 180px;
+	left: 150px;
+}
+
+.ganache {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 280px;
+}
+
+.winterwarmer {
+	height: 220px;
+	position: absolute;
+	top: 170px;
+	left: 400px;
+}
+
+
+
+
+
+
