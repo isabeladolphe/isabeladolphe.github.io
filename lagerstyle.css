@@ -1,0 +1,148 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(100, 243, 248);
+	opacity: 75%;
+}
+
+.one {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 520px;
+	font-weight: 600;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.home {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 50px;
+	font-weight: 300;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.solidgold {
+	height: 300px;
+	position: absolute;
+	top: 85px;
+	left: 150px;
+}
+
+.lasheslager {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 280px;
+}
+
+.deathandtaxes {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 480px;
+}
+
+.songofjoy {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 650px;
+}
+
+.dortmundergold {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 820px;
+}
+
+.kiwirising {
+	height: 300px;
+	position: absolute;
+	top: 95px;
+	left: 920px;
+}
+
+.regionriot3 {
+	height: 300px;
+	position: absolute;
+	top: 85px;
+	left: 1100px;
+}
+
+.superfresh {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 150px;
+}
+
+.brewality {
+	height: 260px;
+	position: absolute;
+	top: 420px;
+	left: 300px;
+}
+
+.narragansett {
+	height: 260px;
+	position: absolute;
+	top: 420px;
+	left: 420px;
+}
+
+.stillwater {
+	height: 260px;
+	position: absolute;
+	top: 420px;
+	left: 570px;
+}
+
+.dogfishhead {
+	height: 260px;
+	position: absolute;
+	top: 420px;
+	left: 715px;
+}
+
+.cigarcity {
+	height: 200px;
+	position: absolute;
+	top: 470px;
+	left: 840px;
+}
+
+.surlysurlyfest {
+	height: 260px;
+	position: absolute;
+	top: 420px;
+	left: 930px;
+}
+
+.duckrabbit {
+	height: 240px;
+	position: absolute;
+	top: 430px;
+	left: 1150px;
+}
+

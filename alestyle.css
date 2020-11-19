@@ -1,0 +1,129 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(100, 243, 248);
+	opacity: 75%;
+}
+
+.one {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 550px;
+	font-weight: 600;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.home {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 50px;
+	font-weight: 300;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.cubanostyle {
+	height: 200px;
+	position: absolute;
+	top: 180px;
+	left: 210px;
+}
+
+.ganache {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 350px;
+}
+
+.winterwarmer {
+	height: 220px;
+	position: absolute;
+	top: 170px;
+	left: 400px;
+}
+
+.nuggetnectar {
+	height: 270px;
+	position: absolute;
+	top: 120px;
+	left: 600px;
+}
+
+.backwoods {
+	height: 270px;
+	position: absolute;
+	top: 110px;
+	left: 790px;
+}
+
+.wheatwine {
+	height: 270px;
+	position: absolute;
+	top: 115px;
+	left: 950px;
+}
+
+.eureka {
+	height: 270px;
+	position: absolute;
+	top: 115px;
+	left: 1100px;
+}
+
+.zombiedust {
+	height: 240px;
+	position: absolute;
+	top: 420px;
+	left: 200px;
+}
+
+.zoe {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 500px;
+}
+
+.anabasis {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 650px;
+}
+
+.babygenius {
+	height: 220px;
+	position: absolute;
+	top: 440px;
+	left: 800px;
+}
+
+.riceandbeans {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 950px;
+}
+
+
+

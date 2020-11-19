@@ -1,0 +1,67 @@
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+.dropbar {
+	height: 60px;
+	width: 1450px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: rgb(100, 243, 248);
+	opacity: 75%;
+}
+
+.one {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 550px;
+	font-weight: 600;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.home {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 50px;
+	font-weight: 300;
+	color: black;
+	letter-spacing: 3px;
+}
+
+.alpine {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left: 170px;
+}
+
+.doubleshotblack {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left: 470px;
+}
+
+.bittermonk {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left: 650px;
+}
+
+
+
+
