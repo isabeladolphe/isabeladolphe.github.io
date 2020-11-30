@@ -45,23 +45,91 @@
 	height: 300px;
 	position: absolute;
 	top: 90px;
-	left: 170px;
+	left: 190px;
 }
 
 .doubleshotblack {
 	height: 300px;
 	position: absolute;
 	top: 90px;
-	left: 470px;
+	left: 420px;
 }
 
 .bittermonk {
 	height: 300px;
 	position: absolute;
 	top: 90px;
-	left: 650px;
+	left: 560px;
 }
 
+.headytopper {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left: 700px;
+}
 
+.buddysprinkles {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left: 880px;
+}
+
+.juicebomb {
+	height: 300px;
+	position: absolute;
+	top: 90px;
+	left:1050px;
+}
+
+.hopdrop {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 250px;
+}
+
+.transient {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 400px;
+}
+
+.bks {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 550px;
+}
+
+.samesame {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 700px;
+}
+
+.wrench {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 850px;
+}
+
+.julius {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 1000px;
+}
+
+.logicalconclusion {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 1150px;
+}
 
 
