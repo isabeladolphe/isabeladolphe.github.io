@@ -29,18 +29,30 @@
 	letter-spacing: 3px;
 }
 
+.home {
+	position: absolute;
+	width: 800px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5vw;
+	top: -10px;
+	left: 50px;
+	font-weight: 300;
+	color: black;
+	letter-spacing: 3px;
+}
+
 .cubanostyle {
 	height: 200px;
 	position: absolute;
 	top: 180px;
-	left: 150px;
+	left: 210px;
 }
 
 .ganache {
-	height: 300px;
+	height: 250px;
 	position: absolute;
-	top: 95px;
-	left: 280px;
+	top: 420px;
+	left: 350px;
 }
 
 .winterwarmer {
@@ -50,8 +62,74 @@
 	left: 400px;
 }
 
+.nuggetnectar {
+	height: 270px;
+	position: absolute;
+	top: 120px;
+	left: 600px;
+}
 
+.backwoods {
+	height: 270px;
+	position: absolute;
+	top: 110px;
+	left: 790px;
+}
 
+.wheatwine {
+	height: 270px;
+	position: absolute;
+	top: 115px;
+	left: 950px;
+}
 
+.eureka {
+	height: 270px;
+	position: absolute;
+	top: 115px;
+	left: 1100px;
+}
+
+.zombiedust {
+	height: 240px;
+	position: absolute;
+	top: 420px;
+	left: 200px;
+}
+
+.zoe {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 500px;
+}
+
+.anabasis {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 650px;
+}
+
+.babygenius {
+	height: 220px;
+	position: absolute;
+	top: 440px;
+	left: 800px;
+}
+
+.riceandbeans {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 950px;
+}
+
+.saunter {
+	height: 250px;
+	position: absolute;
+	top: 420px;
+	left: 1120px;
+}
 
 

@@ -25,7 +25,7 @@
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: -10px;
-	left: 1000px;
+	left: 850px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 3px;
@@ -37,19 +37,7 @@
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: -10px;
-	left: 700px;
-	font-weight: 200;
-	color: white;
-	letter-spacing: 3px;
-}
-
-.three {
-	position: absolute;
-	width: 300px;
-	font-family: 'Oswald', sans-serif;
-	font-size: 1.5vw;
-	top: -10px;
-	left: 400px;
+	left: 500px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 3px;
@@ -67,17 +55,48 @@
 	letter-spacing: 3px;
 }
 
+
 .stouttext {
 	position: absolute;
 	width: 200px;
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: 200px;
-	left: 60px;
+	left: 160px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 0px;
+	pointer-events: none;
+	opacity: 0;
 }
+.showstouttext {
+	opacity: 1;
+}
+.stout1 img {
+	width: 270px;
+	height: 450px;
+	transition: all .50s ease-in-out;
+}
+.stout1 {
+	height: 450px;
+	position: absolute;
+	top: 200px;
+	left: 120px;
+	transition: all .50s ease-in-out;
+}
+.stout1:hover {
+	width: 270px;
+	height: 450px;
+	position: absolute;
+	top: 200px;
+	left: 120px;
+	background-color: black;
+	opacity: 80%;
+}
+.stout1:hover img {
+	opacity: 0;
+}
+
 
 .lagertext {
 	position: absolute;
@@ -85,11 +104,41 @@
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: 200px;
-	left: 350px;
+	left: 440px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 0px;
+	pointer-events: none;
+	opacity: 0;
 }
+.showlagertext {
+	opacity: 1;
+}
+.lager1 img{
+	width: 280px;
+	height: 450px;
+	transition: all .50s ease-in-out;
+}
+.lager1 {
+	height: 485px;
+	position: absolute;
+	top: 190px;
+	left: 400px;
+	transition: all .50s ease-in-out;
+}
+.lager1:hover {
+	width: 270px;
+	height: 485px;
+	position: absolute;
+	top: 190px;
+	left: 400px;
+	background-color: black;
+	opacity: 80%;
+}
+.lager1:hover img {
+	opacity: 0;
+}
+
 
 .aletext {
 	position: absolute;
@@ -97,11 +146,42 @@
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: 200px;
-	left: 640px;
+	left: 730px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 0px;
+	pointer-events: none;
+	opacity: 0;
 }
+.showaletext {
+	opacity: 1;
+}
+.ale1 img {
+	width: 245px;
+	height: 460px;
+	transition: all .50s ease-in-out;
+}
+.ale1 {
+	height: 460px;
+	position: absolute;
+	top: 185px;
+	left: 700px;
+	transition: all .50s ease-in-out;
+}
+.ale1:hover {
+	width: 245px;
+	height: 460px;
+	position: absolute;
+	top: 185px;
+	left: 700px;
+	background-color: black;
+	opacity: 80%;
+}
+.ale1:hover img {
+	opacity: 0;
+}
+
+
 
 .ipatext {
 	position: absolute;
@@ -109,57 +189,39 @@
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5vw;
 	top: 200px;
-	left: 900px;
+	left: 1020px;
 	font-weight: 200;
 	color: white;
 	letter-spacing: 0px;
+	pointer-events: none;
+	opacity: 0;
 }
-
-.specialtytext {
-	position: absolute;
-	width: 200px;
-	font-family: 'Oswald', sans-serif;
-	font-size: 1.5vw;
-	top: 200px;
-	left: 1150px;
-	font-weight: 200;
-	color: white;
-	letter-spacing: 0px;
+.showipatext {
+	opacity: 1;
 }
-
-.stout1 {
-	height: 450px;
-	position: absolute;
-	top: 200px;
-	left: 20px;
+.ipa1 img {
+	width: 272px;
+	height: 455px;
+	transition: all .50s ease-in-out;
 }
-
-
-.lager1 {
-	height: 485px;
-	position: absolute;
-	top: 175px;
-	left: 300px;
-}
-
-.ale1 {
-	height: 460px;
-	position: absolute;
-	top: 185px;
-	left: 600px;
-}
-
 .ipa1 {
 	height: 455px;
 	position: absolute;
 	top: 200px;
-	left: 850px;
+	left: 980px;
+	transition: all .50s ease-in-out;
+}
+.ipa1:hover {
+	width: 272px;
+	height: 455px;
+	position: absolute;
+	top: 200px;
+	left: 980px;
+	background-color: black;
+	opacity: 80%;
+}
+.ipa1:hover img {
+	opacity: 0;
 }
 
-.specialty1 {
-	height: 470px;
-	position: absolute;
-	top: 195px;
-	left: 1100px;
-}
 
