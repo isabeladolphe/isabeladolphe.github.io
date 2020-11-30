@@ -40,3 +40,108 @@
 	color: black;
 	letter-spacing: 3px;
 }
+
+.troegenator {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 220px;
+}
+
+.perpetual {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 350px;
+}
+
+.narragansett {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 480px;
+}
+
+.smokeanddagger {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 650px;
+}
+
+.campfire {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 800px;
+}
+
+.headway {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 920px;
+}
+
+.lunch {
+	height: 250px;
+	position: absolute;
+	top: 130px;
+	left: 1080px;
+}
+
+.ruby {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 210px;
+}
+
+.granola {
+	height: 180px;
+	position: absolute;
+	top: 480px;
+	left: 350px;
+}
+
+.samadams {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 490px;
+}
+
+.twojuicy {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 620px;
+}
+
+.switchback {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 750px;
+}
+
+.notyourfathers {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 890px;
+}
+
+.blonde {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 980px;
+}
+
+.bluepoint {
+	height: 230px;
+	position: absolute;
+	top: 430px;
+	left: 1120px;
+}
